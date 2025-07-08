@@ -18,7 +18,7 @@ import AwsIcon from './components/icons/AwsIcon';
 export const YOUR_NAME = "Samyak Rote";
 export const YOUR_TITLE = "Software Engineer & Computer Science Student";
 export const YOUR_BIO = "Computer Science student at IIIT Nagpur specializing in algorithm design and full-stack development. Passionate about building complex, efficient, and user-friendly applications.";
-export const YOUR_PROFILE_PICTURE_URL = "./20230826_115633.jpg";
+export const YOUR_PROFILE_PICTURE_URL = "https://ibb.co/fGPjhkVr";
 
 export const SOCIAL_LINKS = {
     linkedin: "https://www.linkedin.com/in/samyak-rote/",
